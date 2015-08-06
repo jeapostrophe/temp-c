@@ -5,5 +5,6 @@
 (define deps '(("base" #:version "6.2.900.4")
                "temp-c-lib"))
 (define build-deps '("eli-tester"
-                     "errortrace-lib"))
+                     "errortrace-lib"
+                     "racket-test"))
 (define pkg-authors '(jay))
