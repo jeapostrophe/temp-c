@@ -5,7 +5,8 @@
 (define deps '(("base" #:version "6.2.900.4")
                "temp-c-lib"))
 (define build-deps '("scribble-lib"
-                     "automata"))
+                     "automata"
+                     "racket-doc"))
 (define pkg-authors '(jay))
 
 (define scribblings '(("scribblings/temp-c.scrbl" () (library))))
