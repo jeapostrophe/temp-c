@@ -9,4 +9,4 @@
                      "racket-doc"))
 (define pkg-authors '(jay))
 
-(define scribblings '(("scribblings/temp-c.scrbl" () (library))))
+(define scribblings '(("scribblings/temp-c.scrbl" () ("Verification"))))
